@@ -1,0 +1,482 @@
+[
+  {
+    "day": 1,
+    "title": "Day 1: Setting Up Your Environment",
+    "description": "Install necessary tools and set up your development environment.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Beginner",
+    "learningGoal": "Be able to run a simple program in your chosen language."
+  },
+  {
+    "day": 2,
+    "title": "Day 2: Hello World",
+    "description": "Write your first program that prints 'Hello, World!'.",
+    "estimatedTime": "15 mins",
+    "difficulty": "Beginner",
+    "learningGoal": "Understand basic syntax and output."
+  },
+  {
+    "day": 3,
+    "title": "Day 3: Variables and Data Types",
+    "description": "Learn about variables, strings, numbers, and booleans.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Beginner",
+    "learningGoal": "Declare and use variables of different types."
+  },
+  {
+    "day": 4,
+    "title": "Day 4: User Input",
+    "description": "Create a program that takes input from the user.",
+    "estimatedTime": "20 mins",
+    "difficulty": "Beginner",
+    "learningGoal": "Read and process user input."
+  },
+  {
+    "day": 5,
+    "title": "Day 5: Simple Calculations",
+    "description": "Perform arithmetic operations and display results.",
+    "estimatedTime": "25 mins",
+    "difficulty": "Beginner",
+    "learningGoal": "Use operators for math calculations."
+  },
+  {
+    "day": 6,
+    "title": "Day 6: Conditional Statements",
+    "description": "Use if-else statements to make decisions in your code.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Beginner",
+    "learningGoal": "Control program flow with conditions."
+  },
+  {
+    "day": 7,
+    "title": "Day 7: Loops",
+    "description": "Learn to repeat actions with for and while loops.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Beginner",
+    "learningGoal": "Iterate over a range of values."
+  },
+  {
+    "day": 8,
+    "title": "Day 8: Arrays",
+    "description": "Store and manipulate lists of data using arrays.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Beginner",
+    "learningGoal": "Create, access, and modify array elements."
+  },
+  {
+    "day": 9,
+    "title": "Day 9: Array Methods",
+    "description": "Explore built-in array methods like push, pop, shift, unshift.",
+    "estimatedTime": "25 mins",
+    "difficulty": "Beginner",
+    "learningGoal": "Manipulate arrays with common methods."
+  },
+  {
+    "day": 10,
+    "title": "Day 10: Functions",
+    "description": "Break your code into reusable functions.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Beginner",
+    "learningGoal": "Define and call functions with parameters."
+  },
+  {
+    "day": 11,
+    "title": "Day 11: Function Return Values",
+    "description": "Learn how functions can return values.",
+    "estimatedTime": "20 mins",
+    "difficulty": "Beginner",
+    "learningGoal": "Use return statements to get results from functions."
+  },
+  {
+    "day": 12,
+    "title": "Day 12: Object Basics",
+    "description": "Create and use objects to store related data.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Beginner",
+    "learningGoal": "Define object properties and access them."
+  },
+  {
+    "day": 13,
+    "title": "Day 13: Object Methods",
+    "description": "Add functions as properties to objects.",
+    "estimatedTime": "25 mins",
+    "difficulty": "Beginner",
+    "learningGoal": "Call methods on objects."
+  },
+  {
+    "day": 14,
+    "title": "Day 14: String Manipulation",
+    "description": "Learn to concatenate, slice, and search strings.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Beginner",
+    "learningGoal": "Process and format text data."
+  },
+  {
+    "day": 15,
+    "title": "Day 15: String Methods",
+    "description": "Explore built-in string methods like toUpperCase, split, replace.",
+    "estimatedTime": "25 mins",
+    "difficulty": "Beginner",
+    "learningGoal": "Transform strings using various methods."
+  },
+  {
+    "day": 16,
+    "title": "Day 16: Introduction to Debugging",
+    "description": "Learn basic debugging techniques to find and fix errors.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Beginner",
+    "learningGoal": "Use console.log and breakpoints to debug code."
+  },
+  {
+    "day": 17,
+    "title": "Day 17: Working with Numbers",
+    "description": "Explore mathematical operations and number formatting.",
+    "estimatedTime": "25 mins",
+    "difficulty": "Beginner",
+    "learningGoal": "Perform advanced calculations and format numbers."
+  },
+  {
+    "day": 18,
+    "title": "Day 18: Date and Time",
+    "description": "Work with dates and times in your programs.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Beginner",
+    "learningGoal": "Create, format, and manipulate date objects."
+  },
+  {
+    "day": 19,
+    "title": "Day 19: Randomization",
+    "description": "Generate random numbers and use them in your programs.",
+    "estimatedTime": "20 mins",
+    "difficulty": "Beginner",
+    "learningGoal": "Add randomness to your applications."
+  },
+  {
+    "day": 20,
+    "title": "Day 20: Beginner Project - Calculator",
+    "description": "Build a simple calculator that performs basic operations.",
+    "estimatedTime": "1 hour",
+    "difficulty": "Beginner",
+    "learningGoal": "Apply learned concepts to create a functional application."
+  },
+  {
+    "day": 21,
+    "title": "Day 21: Intermediate Concepts - Scope",
+    "description": "Understand variable scope and closures.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Intermediate",
+    "learningGoal": "Manage variable visibility in different code blocks."
+  },
+  {
+    "day": 22,
+    "title": "Day 22: Recursion",
+    "description": "Learn how functions can call themselves.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Intermediate",
+    "learningGoal": "Solve problems using recursive functions."
+  },
+  {
+    "day": 23,
+    "title": "Day 23: Higher-Order Functions",
+    "description": "Pass functions as arguments and return functions from functions.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Intermediate",
+    "learningGoal": "Use functions like map, filter, reduce."
+  },
+  {
+    "day": 24,
+    "title": "Day 24: Map and Filter",
+    "description": "Transform and filter arrays using map and filter methods.",
+    "estimatedTime": "25 mins",
+    "difficulty": "Intermediate",
+    "learningGoal": "Process collections with functional programming techniques."
+  },
+  {
+    "day": 25,
+    "title": "Day 25: Reduce Method",
+    "description": "Accumulate array values into a single result using reduce.",
+    "estimatedTime": "25 mins",
+    "difficulty": "Intermediate",
+    "learningGoal": "Summarize data with the reduce method."
+  },
+  {
+    "day": 26,
+    "title": "Day 26: Destructuring",
+    "description": "Extract values from arrays and objects into distinct variables.",
+    "estimatedTime": "20 mins",
+    "difficulty": "Intermediate",
+    "learningGoal": "Unpack data structures concisely."
+  },
+  {
+    "day": 27,
+    "title": "Day 27: Spread and Rest Operators",
+    "description": "Use ... to expand arrays/objects and collect function arguments.",
+    "estimatedTime": "20 mins",
+    "difficulty": "Intermediate",
+    "learningGoal": "Combine and split data structures easily."
+  },
+  {
+    "day": 28,
+    "title": "Day 28: Error Handling",
+    "description": "Use try-catch blocks to handle exceptions gracefully.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Intermediate",
+    "learningGoal": "Prevent crashes and handle errors properly."
+  },
+  {
+    "day": 29,
+    "title": "Day 29: Modules and Imports",
+    "description": "Organize code into reusable modules and import them.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Intermediate",
+    "learningGoal": "Split code across multiple files and share functionality."
+  },
+  {
+    "day": 30,
+    "title": "Day 30: Intermediate Project - Todo App",
+    "description": "Build a todo application with add, remove, and mark complete features.",
+    "estimatedTime": "1.5 hours",
+    "difficulty": "Intermediate",
+    "learningGoal": "Apply intermediate concepts to create a stateful application."
+  },
+  {
+    "day": 31,
+    "title": "Day 31: Asynchronous Programming",
+    "description": "Learn about callbacks, promises, and async/await.",
+    "estimatedTime": "40 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Handle asynchronous operations without blocking execution."
+  },
+  {
+    "day": 32,
+    "title": "Day 32: Fetch API",
+    "description": "Make HTTP requests to retrieve data from servers.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Communicate with REST APIs and handle responses."
+  },
+  {
+    "day": 33,
+    "title": "Day 33: Working with JSON",
+    "description": "Parse and stringify JSON data for data interchange.",
+    "estimatedTime": "20 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Convert between objects and JSON strings."
+  },
+  {
+    "day": 34,
+    "title": "Day 34: Local Storage",
+    "description": "Store data persistently in the browser using localStorage.",
+    "estimatedTime": "25 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Save and retrieve data between page reloads."
+  },
+  {
+    "day": 35,
+    "title": "Day 35: Event Handling",
+    "description": "Respond to user actions like clicks, keypresses, and form submissions.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Create interactive applications that respond to events."
+  },
+  {
+    "day": 36,
+    "title": "Day 36: DOM Manipulation",
+    "description": "Dynamically create, modify, and remove HTML elements.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Update the webpage content without reloading."
+  },
+  {
+    "day": 37,
+    "title": "Day 37: CSS-in-JS",
+    "description": "Apply styles dynamically using JavaScript.",
+    "estimatedTime": "25 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Control element appearance programmatically."
+  },
+  {
+    "day": 38,
+    "title": "Day 38: Animations",
+    "description": "Create smooth transitions and animations using CSS and JS.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Enhance user experience with visual effects."
+  },
+  {
+    "day": 39,
+    "title": "Day 39: Responsive Design",
+    "description": "Make your applications work on different screen sizes.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Use media queries and flexible layouts."
+  },
+  {
+    "day": 40,
+    "title": "Day 40: Advanced Project - Weather App",
+    "description": "Build a weather application that fetches and displays real-time data.",
+    "estimatedTime": "2 hours",
+    "difficulty": "Advanced",
+    "learningGoal": "Combine APIs, async handling, and DOM manipulation."
+  },
+  {
+    "day": 41,
+    "title": "Day 41: Data Structures - Stacks",
+    "description": "Implement and use stack data structures (LIFO).",
+    "estimatedTime": "30 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Solve problems using stack operations."
+  },
+  {
+    "day": 42,
+    "title": "Day 42: Data Structures - Queues",
+    "description": "Implement and use queue data structures (FIFO).",
+    "estimatedTime": "30 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Manage data in first-in-first-out order."
+  },
+  {
+    "day": 43,
+    "title": "Day 43: Data Structures - Linked Lists",
+    "description": "Create and manipulate linked lists.",
+    "estimatedTime": "40 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Understand pointer-based data structures."
+  },
+  {
+    "day": 44,
+    "title": "Day 44: Data Structures - Trees",
+    "description": "Work with tree data structures and traversal algorithms.",
+    "estimatedTime": "40 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Navigate hierarchical data efficiently."
+  },
+  {
+    "day": 45,
+    "title": "Day 45: Data Structures - Graphs",
+    "description": "Implement graphs and explore traversal techniques.",
+    "estimatedTime": "45 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Model and analyze networked data."
+  },
+  {
+    "day": 46,
+    "title": "Day 46: Sorting Algorithms",
+    "description": "Implement and compare different sorting algorithms.",
+    "estimatedTime": "40 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Arrange data efficiently using various sort methods."
+  },
+  {
+    "day": 47,
+    "title": "Day 47: Searching Algorithms",
+    "description": "Learn linear and binary search algorithms.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Find data quickly in sorted and unsorted collections."
+  },
+  {
+    "day": 48,
+    "title": "Day 48: Recursion Optimization",
+    "description": "Optimize recursive functions with memoization and tail recursion.",
+    "estimatedTime": "35 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Improve performance of recursive solutions."
+  },
+  {
+    "day": 49,
+    "title": "Day 49: Design Patterns - Singleton",
+    "description": "Implement the Singleton pattern to ensure single instance.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Control object creation and access."
+  },
+  {
+    "day": 50,
+    "title": "Day 50: Advanced Project - Chat Application",
+    "description": "Build a real-time chat application with websockets.",
+    "estimatedTime": "2.5 hours",
+    "difficulty": "Advanced",
+    "learningGoal": "Apply advanced concepts to create interactive real-time apps."
+  },
+  {
+    "day": 51,
+    "title": "Day 51: Testing Fundamentals",
+    "description": "Write unit tests to verify your code works correctly.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Create automated tests for your functions."
+  },
+  {
+    "day": 52,
+    "title": "Day 52: Testing Frameworks",
+    "description": "Use testing frameworks like Jest or Mocha.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Structure and run tests efficiently."
+  },
+  {
+    "day": 53,
+    "title": "Day 53: Debugging Tools",
+    "description": "Use browser dev tools and debuggers effectively.",
+    "estimatedTime": "25 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Inspect and debug applications in real-time."
+  },
+  {
+    "day": 54,
+    "title": "Day 54: Performance Optimization",
+    "description": "Identify and fix performance bottlenecks.",
+    "estimatedTime": "35 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Make applications run faster and smoother."
+  },
+  {
+    "day": 55,
+    "title": "Day 55: Code Refactoring",
+    "description": "Improve code structure without changing functionality.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Write cleaner, more maintainable code."
+  },
+  {
+    "day": 56,
+    "title": "Day 56: Version Control with Git",
+    "description": "Learn Git basics for tracking code changes.",
+    "estimatedTime": "40 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Manage code history and collaborate with others."
+  },
+  {
+    "day": 57,
+    "title": "Day 57: Git Branching and Merging",
+    "description": "Work with branches and merge changes effectively.",
+    "estimatedTime": "35 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Manage parallel development streams."
+  },
+  {
+    "day": 58,
+    "title": "Day 58: Deployment Basics",
+    "description": "Deploy your applications to hosting platforms.",
+    "estimatedTime": "30 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Make your applications accessible online."
+  },
+  {
+    "day": 59,
+    "title": "Day 59: Final Project Planning",
+    "description": "Plan and design your capstone project.",
+    "estimatedTime": "45 mins",
+    "difficulty": "Advanced",
+    "learningGoal": "Scope and architect a complete application."
+  },
+  {
+    "day": 60,
+    "title": "Day 60: Capstone Project",
+    "description": "Build and present your final project incorporating all learned skills.",
+    "estimatedTime": "4 hours",
+    "difficulty": "Advanced",
+    "learningGoal": "Demonstrate mastery of the full curriculum."
+  }
+]

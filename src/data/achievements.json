@@ -1,0 +1,279 @@
+[
+  {
+    "id": "badge-001",
+    "title": "Hello World",
+    "description": "Completed Day 2: Hello World challenge",
+    "icon": "👋"
+  },
+  {
+    "id": "badge-002",
+    "title": "Variable Master",
+    "description": "Completed Day 3: Variables and Data Types challenge",
+    "icon": "🔢"
+  },
+  {
+    "id": "badge-003",
+    "title": "Input Pro",
+    "description": "Completed Day 4: User Input challenge",
+    "icon": "💬"
+  },
+  {
+    "id": "badge-004",
+    "title": "Math Whizard",
+    "description": "Completed Day 5: Simple Calculations challenge",
+    "icon": "➕"
+  },
+  {
+    "id": "badge-005",
+    "title": "Decision Maker",
+    "description": "Completed Day 6: Conditional Statements challenge",
+    "icon": "🧠"
+  },
+  {
+    "id": "badge-006",
+    "title": "Loop Expert",
+    "description": "Completed Day 7: Loops challenge",
+    "icon": "🔁"
+  },
+  {
+    "id": "badge-007",
+    "title": "Array Champion",
+    "description": "Completed Day 8: Arrays challenge",
+    "icon": "[
+    "
+  },
+  {
+    "id": "badge-008",
+    "title": "Functional",
+    "description": "Completed Day 10: Functions challenge",
+    "icon": "➡️"
+  },
+  {
+    "id": "badge-009",
+    "title": "Object Oriented",
+    "description": "Completed Day 12: Object Basics challenge",
+    "icon": "📦"
+  },
+  {
+    "id": "badge-010",
+    "title": "Method Man",
+    "description": "Completed Day 13: Object Methods challenge",
+    "icon": "🛠️"
+  },
+  {
+    "id": "badge-011",
+    "title": "String Sculptor",
+    "description": "Completed Day 15: String Methods challenge",
+    "icon": "✂️"
+  },
+  {
+    "id": "badge-012",
+    "title": "Debugger",
+    "description": "Completed Day 16: Introduction to Debugging challenge",
+    "icon": "🐞"
+  },
+  {
+    "id": "badge-013",
+    "title": "Number Cruncher",
+    "description": "Completed Day 17: Working with Numbers challenge",
+    "icon": "🔢"
+  },
+  {
+    "id": "badge-014",
+    "title": "Time Lord",
+    "description": "Completed Day 18: Date and Time challenge",
+    "icon": "⏰"
+  },
+  {
+    "id": "badge-015",
+    "title": "Randomizer",
+    "description": "Completed Day 19: Randomization challenge",
+    "icon": "🎲"
+  },
+  {
+    "id": "badge-016",
+    "title": "Calculator Creator",
+    "description": "Completed Day 20: Beginner Project - Calculator challenge",
+    "icon": "🧮"
+  },
+  {
+    "id": "badge-017",
+    "title": "Scope Savant",
+    "description": "Completed Day 21: Intermediate Concepts - Scope challenge",
+    "icon": "📚"
+  },
+  {
+    "id": "badge-018",
+    "title": "Recursive Roller",
+    "description": "Completed Day 22: Recursion challenge",
+    "icon": "🔁"
+  },
+  {
+    "id": "badge-019",
+    "title": "Higher-Order Hero",
+    "description": "Completed Day 23: Higher-Order Functions challenge",
+    "icon": "⚡"
+  },
+  {
+    "id": "badge-020",
+    "title": "Map & Filter Mastery",
+    "description": "Completed Day 24: Map and Filter challenge",
+    "icon": "🗺️"
+  },
+  {
+    "id": "badge-021",
+    "title": "Reduce Wizard",
+    "description": "Completed Day 25: Reduce Method challenge",
+    "icon": "📉"
+  },
+  {
+    "id": "badge-022",
+    "title": "Destructuring Dev",
+    "description": "Completed Day 26: Destructuring challenge",
+    "icon": "🔓"
+  },
+  {
+    "id": "badge-023",
+    "title": "Spread Specialist",
+    "description": "Completed Day 27: Spread and Rest Operators challenge",
+    "icon": "🔀"
+  },
+  {
+    "id": "badge-024",
+    "title": "Error Handler",
+    "description": "Completed Day 28: Error Handling challenge",
+    "icon": "🚨"
+  },
+  {
+    "id": "badge-025",
+    "title": "Module Maven",
+    "description": "Completed Day 29: Modules and Imports challenge",
+    "icon": "🧩"
+  },
+  {
+    "id": "badge-026",
+    "title": "Todo Titan",
+    "description": "Completed Day 30: Intermediate Project - Todo App challenge",
+    "icon": "📝"
+  },
+  {
+    "id": "badge-027",
+    "title": "Async Aces",
+    "description": "Completed Day 31: Asynchronous Programming challenge",
+    "icon": "⚡"
+  },
+  {
+    "id": "badge-028",
+    "title": "Fetch Fanatic",
+    "description": "Completed Day 32: Fetch API challenge",
+    "icon": "📡"
+  },
+  {
+    "id": "badge-029",
+    "title": "JSON Journeys",
+    "description": "Completed Day 33: Working with JSON challenge",
+    "icon": "📦"
+  },
+  {
+    "id": "badge-030",
+    "title": "Local Storage Legend",
+    "description": "Completed Day 34: Local Storage challenge",
+    "icon": "💾"
+  },
+  {
+    "id": "badge-031",
+    "title": "Event Enthusiast",
+    "description": "Completed Day 35: Event Handling challenge",
+    "icon": "💥"
+  },
+  {
+    "id": "badge-032",
+    "title": "DOM Dynamo",
+    "description": "Completed Day 36: DOM Manipulation challenge",
+    "icon": "🖱️"
+  },
+  {
+    "id": "badge-033",
+    "title": "CSS Magician",
+    "description": "Completed Day 37: CSS-in-JS challenge",
+    "icon": "🎨"
+  },
+  {
+    "id": "badge-034",
+    "title": "Animation Artist",
+    "description": "Completed Day 38: Animations challenge",
+    "icon": "✨"
+  },
+  {
+    "id": "badge-035",
+    "title": "Responsive Designer",
+    "description": "Completed Day 39: Responsive Design challenge",
+    "icon": "📱"
+  },
+  {
+    "id": "badge-036",
+    "title": "Weather Watcher",
+    "description": "Completed Day 40: Advanced Project - Weather App challenge",
+    "icon": "☀️"
+  },
+  {
+    "id": "badge-037",
+    "title": "Stack Star",
+    "description": "Completed Day 41: Data Structures - Stacks challenge",
+    "icon": "📚"
+  },
+  {
+    "id": "badge-038",
+    "title": "Queue Queen",
+    "description": "Completed Day 42: Data Structures - Queues challenge",
+    "icon": "🚶"
+  },
+  {
+    "id": "badge-039",
+    "title": "Linked List Legend",
+    "description": "Completed Day 43: Data Structures - Linked Lists challenge",
+    "icon": "🔗"
+  },
+  {
+    "id": "badge-040",
+    "title": "Tree Traversal Expert",
+    "description": "Completed Day 44: Data Structures - Trees challenge",
+    "icon": "🌲"
+  },
+  {
+    "id": "badge-041",
+    "title": "Graph Guru",
+    "description": "Completed Day 45: Data Structures - Graphs challenge",
+    "icon": "🌐"
+  },
+  {
+    "id": "badge-042",
+    "title": "Sorting Savant",
+    "description": "Completed Day 46: Sorting Algorithms challenge",
+    "icon": "🔤"
+  },
+  {
+    "id": "badge-043",
+    "title": "Search Ninja",
+    "description": "Completed Day 47: Searching Algorithms challenge",
+    "icon": "🔎"
+  },
+  {
+    "id": "badge-044",
+    "title": "Recursion Optimizer",
+    "description": "Completed Day 48: Recursion Optimization challenge",
+    "icon": "🔁"
+  },
+  {
+    "id": "badge-045",
+    "title": "Singleton Specialist",
+    "description": "Completed Day 49: Design Patterns - Singleton challenge",
+    "icon": "🔒"
+  },
+  {
+    "id": "badge-046",
+    "title": "Capstone Champion",
+    "description": "Completed Day 60: Capstone Project challenge",
+    "icon": "🏆"
+  }
+]

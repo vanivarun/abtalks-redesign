@@ -1,0 +1,24 @@
+{
+  "currentDay": 12,
+  "phase": "dip",
+  "totalDays": 60,
+  "flags": [
+    {
+      "fromDay": 7,
+      "toDay": 8,
+      "note": "Future me in The Grind: remember why you started. The dip lies."
+    }
+  ],
+  "phaseStats": {
+    "honeymoon": { "completionRate": 0.92, "days": [1, 7] },
+    "dip": { "completionRate": 0.84, "days": [8, 21] },
+    "grind": { "completionRate": 0.78, "days": [22, 40] },
+    "flow": { "completionRate": 0.91, "days": [41, 55] },
+    "finalPush": { "completionRate": 0.97, "days": [56, 60] }
+  },
+  "streak": 12,
+  "longestStreak": 12,
+  "completedDays": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+  "totalHoursCoded": 28.5,
+  "preferredLanguage": "TypeScript"
+}

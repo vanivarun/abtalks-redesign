@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ABTalks Redesign
+
+A 60-day coding challenge platform for students — built for the hackathon.
+
+## Stack
+
+- **Next.js 16** (App Router)
+- **React 19**
+- **TypeScript 5** (strict)
+- **Tailwind CSS v4**
+
+## Project Structure
+
+```
+src/
+├── app/
+│   ├── page.tsx              # Landing page
+│   ├── dashboard/
+│   │   └── page.tsx          # Student dashboard with "The Dip" Compass
+│   ├── day/
+│   │   └── [id]/
+│   │       └── page.tsx      # Daily challenge view
+│   ├── globals.css
+│   └── layout.tsx
+├── components/
+│   ├── ui/                   # Base UI components
+│   └── features/             # Feature-specific components
+├── data/
+│   ├── student.json          # Student progress & phase data
+│   ├── challenges.json       # 60 days of challenges
+│   └── achievements.json     # Unlockable achievements
+├── lib/
+│   └── utils.ts              # Shared utilities (cn, formatters)
+└── types/
+    └── index.ts              # Shared TypeScript types
+```
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Key Feature: "The Dip" Compass
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+A phase-aware motivation compass that visualizes the 5 psychological phases of a 60-day challenge:
 
-## Learn More
+| Phase | Days | Focus |
+|-------|------|-------|
+| 🌙 Honeymoon | 1–7 | Build the habit |
+| 🌑 The Dip | 8–21 | Normalize the struggle |
+| ⛰️ The Grind | 22–40 | Trust the reps |
+| 🌊 Flow | 41–55 | Stretch & teach |
+| 🏁 Final Push | 56–60 | Document the journey |
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Students plant "flags" — one-sentence messages to their future self at each phase transition — creating identity continuity across 60 days.
