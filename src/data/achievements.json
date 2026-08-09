@@ -39,15 +39,14 @@
     "id": "badge-007",
     "title": "Array Champion",
     "description": "Completed Day 8: Arrays challenge",
-    "icon": "[
-    "
+    "icon": "📊"
   },
-  {
-    "id": "badge-008",
-    "title": "Functional",
-    "description": "Completed Day 10: Functions challenge",
-    "icon": "➡️"
-  },
+{
+  "id": "badge-008",
+  "title": "Functional",
+  "description": "Completed Day 10: Functions challenge",
+  "icon": "➡️"
+},
   {
     "id": "badge-009",
     "title": "Object Oriented",
